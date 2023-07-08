@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25155579231",
+    "firebase_url": "https://walkhero-dfedd-default-rtdb.firebaseio.com",
+    "project_id": "walkhero-dfedd",
+    "storage_bucket": "walkhero-dfedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25155579231:android:3a77824104cc73b5639aea",
+        "android_client_info": {
+          "package_name": "com.wa2goose.walkhero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25155579231-ld643du3uk4j8ej4ai0lq40u0ofp0f6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU9Sp_Z9obz7z00RipEWQyYtgcE5LyZRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25155579231-ld643du3uk4j8ej4ai0lq40u0ofp0f6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
